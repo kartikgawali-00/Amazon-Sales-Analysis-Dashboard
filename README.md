@@ -252,9 +252,11 @@ The dataset contains Amazon sales and order-related information including:
 ---
 ### Dashboard Preview
 
-<a href="https://github.com/kartikgawali-00/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon-Sales-Report-80K-Rows.xlsx">
-📊 Download Dataset
-</a>
+# 📂 Dataset Used
+
+📊 **Dataset Link**
+
+<a href="https://github.com/kartikgawali-00/Amazon-Sales-Analysis-Dashboard/blob/main/Amazon-Sales-Report-80K-Rows.xlsx">View Dataset</a>
 
 # 📈 DAX Measures
 
