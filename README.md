@@ -365,11 +365,6 @@ Expand inventory for top-performing apparel categories to maximize sales opportu
 
 ---
 
-# 📷 Dashboard Preview
-
-![Amazon Sales Dashboard](images/Amazon_Sales_Dashboard.png)
-
----
 
 # 🏆 Skills Demonstrated
 
